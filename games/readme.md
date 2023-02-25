@@ -13,3 +13,9 @@
 ### scus-94228
 [![Spyro The Dragon](scus-94228.jpg)](https://github.com/9r3i/psx/releases/tag/scus-94228)
 
+## Resident Evil
+### slus-00170
+[![Resident Evil](slus-00170.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00170)
+
+
+
