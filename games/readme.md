@@ -17,5 +17,10 @@
 ### slus-00170
 [![Resident Evil](slus-00170.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00170)
 
+## Need For Speed 2
+### slus-00276
+[![Need For Speed 2](slus-00276.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00276)
+
+
 
 
