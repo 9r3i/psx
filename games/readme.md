@@ -25,6 +25,9 @@
 ### slus-01212
 [![Metal Slug X](slus-01212.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01212)
 
+## Harry Potter & The Sorcerer's Stone
+### slus-01415
+[![Harry Potter & The Sorcerer's Stone](slus-01415.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01415)
 
 
 
