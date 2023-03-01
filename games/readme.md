@@ -29,6 +29,17 @@
 ### slus-01415
 [![Harry Potter & The Sorcerer's Stone](slus-01415.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01415)
 
+## Monster Rancher
+### slus-00568
+[![Monster Rancher](slus-00568.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00568)
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
+
+
+
 
 
 
