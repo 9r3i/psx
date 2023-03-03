@@ -33,6 +33,10 @@
 ### slus-00568
 [![Monster Rancher](slus-00568.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00568)
 
+## Moto Racer 2
+### slus-00738
+[![](slus-00738.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00738)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
