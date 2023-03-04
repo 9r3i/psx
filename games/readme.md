@@ -41,6 +41,10 @@
 ### slus-00842
 [![Driver - You're the wheelman](slus-00842.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00842)
 
+## Spec Ops - Airborne Commando
+### slus-01447
+[![Spec Ops - Airborne Commando](slus-01447.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01447)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
