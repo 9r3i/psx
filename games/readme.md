@@ -45,6 +45,10 @@
 ### slus-01447
 [![Spec Ops - Airborne Commando](slus-01447.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01447)
 
+## Crash Team Racing
+### scus-94426
+[![Crash Team Racing](scus-94426.jpg)](https://github.com/9r3i/psx/releases/tag/scus-94426)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
