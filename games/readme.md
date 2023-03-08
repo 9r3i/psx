@@ -53,6 +53,10 @@
 ### slpm-87056
 [![World Soccer Winning Eleven 2002](slpm-87056.jpg)](https://github.com/9r3i/psx/releases/tag/slpm-87056)
 
+## Dragon Ball GT Final Bout
+### slus-00493
+[![Dragon Ball GT Final Bout](slus-00493.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00493)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
