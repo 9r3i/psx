@@ -63,7 +63,7 @@
 
 ## Gameshark
 ### slus-99999
-[![Gameshark](slus-99999.jpg)](https://github.com/9r3i/psx/releases/tag/slus-99999)
+[![Gameshark](gameshark.jpg)](https://github.com/9r3i/psx/releases/tag/slus-99999)
 
 ## 
 ### slus-0
