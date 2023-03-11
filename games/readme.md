@@ -65,10 +65,13 @@
 ### slus-99999
 [![Gameshark](gameshark.jpg)](https://github.com/9r3i/psx/releases/tag/slus-99999)
 
+## Naruto - Shinobi no Sato no Jintori Kassen
+### slps-03553
+[![Naruto - Shinobi no Sato no Jintori Kassen](slps-03553.jpg)](https://github.com/9r3i/psx/releases/tag/slps-03553)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
-
 
 
 
