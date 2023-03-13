@@ -69,6 +69,14 @@
 ### slps-03553
 [![Naruto - Shinobi no Sato no Jintori Kassen](slps-03553.jpg)](https://github.com/9r3i/psx/releases/tag/slps-03553)
 
+## Harvest Moon - Back to Nature
+### slus-01115
+[![Harvest Moon - Back to Nature](slus-01115.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01115)
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
