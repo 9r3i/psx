@@ -77,9 +77,9 @@
 ### slus-01585
 [![FIFA Soccer 2005](slus-01585.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01585)
 
-## 
-### slus-0
-[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+## Silent Hill
+### slus-00707
+[![Silent Hill](slus-00707.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00707)
 
 ## 
 ### slus-0
@@ -88,6 +88,11 @@
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
 
 
 
