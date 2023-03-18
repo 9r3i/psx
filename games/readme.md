@@ -81,6 +81,14 @@
 ### slus-00707
 [![Silent Hill](slus-00707.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00707)
 
+## Dragon Seeds
+### slus-00734
+[![Dragon Seeds](slus-00734.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00734)
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
