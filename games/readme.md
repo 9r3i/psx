@@ -89,6 +89,14 @@
 ### slus-00748
 [![Resident Evil 2 - Dual Shock Edition](slus-00748.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00748)
 
+## Monster Rancher 2
+### slus-00917
+[![Monster Rancher 2](slus-00917.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00917)
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
 ## 
 ### slus-0
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
