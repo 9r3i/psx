@@ -93,9 +93,9 @@
 ### slus-00917
 [![Monster Rancher 2](slus-00917.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00917)
 
-## 
-### slus-0
-[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+## Resident Evil 3 - Nemesis
+### slus-00923
+[![Resident Evil 3 - Nemesis](slus-00923.jpg)](https://github.com/9r3i/psx/releases/tag/slus-00923)
 
 ## 
 ### slus-0
