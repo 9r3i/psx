@@ -109,9 +109,9 @@
 ### slus-01042
 [![Parasite Eve 2](slus-01042.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01042)
 
-## 
-### slus-0
-[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+## Final Fantasy IX
+### slus-01251
+[![Final Fantasy IX](slus-01251.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01251)
 
 ## 
 ### slus-0
