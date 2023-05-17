@@ -117,9 +117,9 @@
 ### slus-01485
 [![Tony Hawk's Pro Skater 4](slus-01485.jpg)](https://github.com/9r3i/psx/releases/tag/slus-01485)
 
-## 
-### slus-0
-[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+## Gran Turismo 2 - The Real Driving Simulator
+### scus-94455
+[![Gran Turismo 2 - The Real Driving Simulator](scus-94455.jpg)](https://github.com/9r3i/psx/releases/tag/scus-94455)
 
 ## 
 ### slus-0
