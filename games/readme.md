@@ -141,6 +141,16 @@
 [![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
 
 
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
+
+## 
+### slus-0
+[![](slus-0.jpg)](https://github.com/9r3i/psx/releases/tag/slus-0)
+
+
 ## Config Files
 [![Config Files](https://user-images.githubusercontent.com/3212290/221664144-1fa853c8-a4a4-4fab-96c4-3c5882bc4f16.png)](https://github.com/9r3i/psx/releases/tag/config-230227a)
 
